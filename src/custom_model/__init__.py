@@ -1,0 +1,1 @@
+from src.custom_model.five_outputs_clf_predictor import FiveOutputsTextClassifierPredictor
